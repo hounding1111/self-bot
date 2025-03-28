@@ -30,3 +30,8 @@ For best results, having Administrator permissions is recommended.
 # Future plans?
 
 I probably won’t be updating it as it is functioning well as is.
+
+# Is this a rat / logger?
+
+no you can upload the file to triage yourself right now its only a 7/10 on triage because of aiohttp connections.
+![Alt text](https://cdn.discordapp.com/attachments/1355238883050393737/1355251987209261186/image.png?ex=67e84045&is=67e6eec5&hm=bb9d25515ce0eaed7c46b5e392366e2625f3385ced1a7a4965420c4ff51af415&)
