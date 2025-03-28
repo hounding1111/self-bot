@@ -1,44 +1,32 @@
-# self-bot
-This is just a simple self bot nuker.
+# What it does
+The nuker deletes every channel in the server, sparing 2 channels. It also creates 3 new channels with webhooks that can generate 200-300 pings (depending on your latency) within 10 seconds, which is quite effective.
 
-Took around a week to fully make.
+This works best in servers with fewer channels, as the tool might not delete every channel in larger servers. It is capped at around 40-50 channels.
 
-# fully coded in python
+Note: If you want to "crack" the tool, feel free, but there’s little need to. I’ve already tried optimizing it, and it’s nearly impossible to bypass the rate limits Discord applies.
 
-Recently ive seen a rise in nukers especially self bot nukers which brought me to the task of making one.
-This took some time to make due to discord not support self-bots on the newest versions of discord.py so i had to code this to work with discord.py V1.7.3.
+# How to use it
 
-Guaranteed there is probably a way to make this faster or better so if you want to crack or get the source feel free i didnt add any protection. 
+There are 3 inputs when you run the tool:
 
-I have also added around 100 free rotating https proxies into the code to avoid rate limits if there are issues please make a submit it so i can fix it.
+Token - Your Discord account token.
 
-# what it does?
+Guild ID - The server ID of your target server.
 
-The nuker deletes every channel in the server however spares 2 channels and also creates 3 more channels ALL with webhooks inside that can get around 200 - 300 pings depending on your latency in 10 seconds which is pretty good. 
+Message - The message you want the webhooks to spam.
 
-I found this works best with servers with lower amounts of channels otherwise not every channel gets deleted. This caps around 40 - 50 channels.
+I advise closing the tool after around 300-500 pings to avoid hitting account rate limits.
 
-Note: if you do want to "crack" the tool feel free but i wouldnt see the need as i myself have tried making it faster and it is pretty much impossible due to rate limits discord applys.
+# Requirements
 
-# How to use it?
-
-There are 3 inputs when you run the tool.
-
-Token - Your discord account token
-Guild id - Server id of your target server
-Message - the message you want the webhooks to spam
-
-I advise you close the tool after around 300 - 500 pings to avoid account rate limits
-
-# What are the requirements needed to use the tool?
-
-You need these permissions in the target server, 
+To use the tool, you need the following permissions in the target server:
 
 Manage channels
+
 Manage webhooks
 
-Although id say it works best with Administrator.
+For best results, having Administrator permissions is recommended.
 
 # Future plans?
 
-I probably wont be updating it as its good as it is.
+I probably won’t be updating it as it is functioning well as is.
