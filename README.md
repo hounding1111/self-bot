@@ -19,7 +19,7 @@ I advise closing the tool after around 300-500 pings to avoid hitting account ra
 
 # showcase
 
-![Alt text](https://cdn.discordapp.com/attachments/1340764591554039893/1355258299125338416/unknown_2025.03.28-19.07_1_clip_1.mp4?ex=67e84625&is=67e6f4a5&hm=139271b5e5caf4638fd041621767b137d9c6b4714ab857c119e3ffe63656eb69&)
+https://streamable.com/ki8hub
 
 # Requirements
 
