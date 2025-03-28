@@ -36,4 +36,9 @@ I probably won’t be updating it as it is functioning well as is.
 Im not to familiar with this and im unsure why it gets a 7/10.
 
 No it isnt a rat / logger you can upload the file to triage yourself right now its only a 7/10 on triage because of aiohttp connections ( this is what i think anyway ).
+
+Triage - 
 ![Alt text](https://cdn.discordapp.com/attachments/1355238883050393737/1355251987209261186/image.png?ex=67e84045&is=67e6eec5&hm=bb9d25515ce0eaed7c46b5e392366e2625f3385ced1a7a4965420c4ff51af415&)
+
+Viruts Total -
+![Alt text]([https://cdn.discordapp.com/attachments/1355238883050393737/1355251987209261186/image.png?ex=67e84045&is=67e6eec5&hm=bb9d25515ce0eaed7c46b5e392366e2625f3385ced1a7a4965420c4ff51af415&](https://cdn.discordapp.com/attachments/1355238883050393737/1355253669599117444/image.png?ex=67e841d6&is=67e6f056&hm=188f4198beb6f2a7367dfddeea06186782780a28761addea5283006875cfc199&))
